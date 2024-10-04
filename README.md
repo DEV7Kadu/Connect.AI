@@ -32,7 +32,7 @@ Sabemos como pode ser desafiador gerenciar múltiplos canais de comunicação. P
 ## 💿 Instalação
 
 ```bash
-  apt update && apt upgrade -y && apt install sudo git -y && sudo rm -rf Connect.AI && sudo git clone https://github.com/DEV7Kadu/Connect.AI.git && cd Connect.AI && sudo chmod +x ./devconnectai && ./devconnectai
+  apt update && apt upgrade -y && apt install sudo git -y && sudo rm -rf Connect.AI && sudo git clone https://github.com/DEV7Kadu/Connect.AI.git && cd Connect.AI && sudo chmod +x ./whaticketplus && ./whaticketplus
 ```
 
 <br /><br />
