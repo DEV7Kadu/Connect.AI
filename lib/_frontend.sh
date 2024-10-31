@@ -157,9 +157,7 @@ move_whaticket_files() {
   sudo mv /home/deploywhaticketplus/whaticket/backend/whaticketplus /home/deploywhaticketplus/whaticket/backup/backend/
   
   sudo rm -r /home/deploywhaticketplus/whaticket/frontend/package.json
-  sudo rm -r /home/deploywhaticketplus/whaticket/frontend/package-lock.json
   sudo rm -r /home/deploywhaticketplus/whaticket/backend/package.json
-  sudo rm -r /home/deploywhaticketplus/whaticket/backend/package-lock.json
 
 
   sudo rm -rf /home/deploywhaticketplus/whaticket/frontend/node_modules
